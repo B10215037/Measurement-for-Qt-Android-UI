@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file alias="logo">icons/Android-logo.png</file>
+        <file alias="overflow">icons/ic_action_overflow.png</file>
+        <file alias="project">icons/ic_action_collection.png</file>
+        <file alias="member">icons/ic_action_group.png</file>
+        <file alias="new">icons/ic_action_new.png</file>
+        <file alias="remove">icons/ic_action_discard.png</file>
+        <file alias="camera">icons/ic_action_camera.png</file>
+        <file alias="edit">icons/ic_action_edit.png</file>
+    </qresource>
+</RCC>
